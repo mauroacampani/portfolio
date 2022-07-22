@@ -601,7 +601,8 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
-}
+  /* height: 467px; */
+} 
 
 .img-profile {
   max-width: 10rem;
