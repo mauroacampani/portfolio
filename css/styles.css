@@ -11483,7 +11483,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient( rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 0%), url("../assets/img/logo.jpg");
+  background: linear-gradient( rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 0%), url("../assets/img/python1.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11495,12 +11495,6 @@ footer.footer .social-link:hover {
   padding: 0;
 }
 
-.masthead a {
-  
-  position: absolute;
-  top: 60%;
-  left: 43%;
-}
 
 @media (min-width: 992px) {
   .masthead {
