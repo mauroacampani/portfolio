@@ -78,3 +78,26 @@ function fadeIn(el, display) {
         }
     })();
 };
+
+
+var typed = new Typed('#element', {
+    strings: ['Backend Python'],
+    typeSpeed: 80,
+    backSpeed: 0,
+    backDelay: 500,
+    startDelay: 1000,
+    loop: true
+  });
+
+
+  
+    // let typed_strings = typed.getAttribute('data-typed-items')
+    // typed_strings = typed_strings.split(',')
+    // new Typed('#element', {
+    //   strings: ["Designer, Developer, Freelancer, Photographer"],
+    //   loop: true,
+    //   typeSpeed: 100,
+    //   backSpeed: 50,
+    //   backDelay: 2000
+    // });
+    

@@ -11483,11 +11483,12 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient( rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 0%), url("../assets/img/python4.jpg");
+  background: linear-gradient(rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 0%), url("../assets/img/python9.jpg");
+ 
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  
+
 }
 .masthead h1, .masthead .h1 {
   font-size: 4rem;
@@ -11630,4 +11631,10 @@ section.resume-section .resume-section-content {
 
 .dev-icons {
   font-size: 3rem;
+}
+
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  font-weight: 600;
 }
